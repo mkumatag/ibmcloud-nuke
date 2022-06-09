@@ -1,0 +1,5 @@
+resources:
+  - type: vpc
+    region: eu-de
+    filter:
+      name: example-qm6md-hypershift-vpc
