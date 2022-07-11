@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/IBM/go-sdk-core/v5 v5.10.1
-	github.com/IBM/vpc-go-sdk v0.21.0
+	github.com/IBM/vpc-go-sdk v0.22.0
 	github.com/spf13/cobra v1.5.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/apimachinery v0.24.2
