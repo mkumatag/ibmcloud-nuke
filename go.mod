@@ -3,7 +3,7 @@ module github.com/mkumatag/ibmcloud-nuke
 go 1.18
 
 require (
-	github.com/IBM/go-sdk-core/v5 v5.13.0
+	github.com/IBM/go-sdk-core/v5 v5.13.1
 	github.com/IBM/vpc-go-sdk v0.32.0
 	github.com/spf13/cobra v1.6.1
 	gopkg.in/yaml.v2 v2.4.0
