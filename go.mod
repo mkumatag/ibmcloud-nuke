@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/IBM/go-sdk-core/v5 v5.13.1
 	github.com/IBM/vpc-go-sdk v0.32.0
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/apimachinery v0.26.2
 )
@@ -20,7 +20,7 @@ require (
 	github.com/go-playground/validator/v10 v10.11.2 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
-	github.com/inconshreveable/mousetrap v1.0.1 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
