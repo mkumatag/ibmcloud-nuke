@@ -7,7 +7,7 @@ require (
 	github.com/IBM/vpc-go-sdk v0.32.0
 	github.com/spf13/cobra v1.6.1
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/apimachinery v0.26.2
+	k8s.io/apimachinery v0.27.2
 )
 
 require (
@@ -27,8 +27,8 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	go.mongodb.org/mongo-driver v1.11.2 // indirect
 	golang.org/x/crypto v0.5.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
-	k8s.io/klog/v2 v2.80.1 // indirect
-	k8s.io/utils v0.0.0-20221107191617-1a15be271d1d // indirect
+	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/text v0.8.0 // indirect
+	k8s.io/klog/v2 v2.90.1 // indirect
+	k8s.io/utils v0.0.0-20230209194617-a36077c30491 // indirect
 )
